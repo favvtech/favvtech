@@ -39,18 +39,8 @@ I'm Favour Igein, a software developer and student at Brigham Young University-I
 
 ---
 
-## GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=favvtech&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favvtech&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[])
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[])
 
 Feel free to explore my repositories and reach out for collaboration. Happy coding!
