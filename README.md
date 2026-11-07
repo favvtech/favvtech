@@ -32,10 +32,18 @@ I'm Favour Igein, a software developer and student at Brigham Young University-I
 
 ---
 
-## Featured Projects
+## Projects and Work
 
 * **[Voting Poll App](https://vercel.com/favvdev1/voting-poll-xdip)**: An interactive voting platform allowing users to create custom polls, share direct links with participants, and collect responses with live dynamic results. Built with modern web technologies.
 * **[Luxe Interior Design](https://luxe-interior-design-cyan.vercel.app/)**: A responsive, modern interior design showcase website featuring high-end UI/UX, interactive project galleries, and seamless service presentation for architectural and interior decor clients.
+
+---
+
+## GitHub Statistics
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=favvtech" alt="GitHub Streak" />
+</p>
 
 ---
 
